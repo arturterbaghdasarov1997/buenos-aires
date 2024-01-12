@@ -77,6 +77,22 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     gap: 116px;
+    margin-bottom: 70px;
+}
+
+.place {
+    margin-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 116px;
+    margin-bottom: 70px;
+}
+
+.place img {
+    width: 327px;
+    height: 326px;
+    border-radius: 20px;
 }
 
 /* reason */
