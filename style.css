@@ -180,6 +180,54 @@ body {
     color: #000000;
 }
 
+.hotel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 125px;
+    margin-bottom: 133px;
+}
+
+.about-hotel {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 50px;
+    max-width: 569px;
+    width: 100%;
+}
+
+.about-hotel h2 {
+    font-family: K2D;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.about-hotel h3 {
+    font-family: K2D;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.hotel img {
+    width: 529px;
+    height: 434px;
+    border-radius: 20px;
+    border: 5px;
+    border: solid;
+    border-color: #000000;
+    box-shadow: 4px 4px #93aec5;
+}
+
 .title1 {
     max-width: 1214px;
     width: 100%;
